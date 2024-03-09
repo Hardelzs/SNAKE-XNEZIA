@@ -12,5 +12,5 @@
   
   
   <div class="w-full min-h-max flex items-center flex-col md:w-[300px] bg-[#373737] rounded p-4">
-      <h1>YOU LOST 😭</h1>
+      <h1>EMMANUEL EVEBERIN IS A MOTHERFUCKER</h1>
   </div>
